@@ -1,0 +1,26 @@
+{
+  "session_id": "medical_session_20250928_145600_27528a77",
+  "created_at": "2025-09-28T14:56:00.741268",
+  "messages": [
+    {
+      "id": 1,
+      "role": "Human",
+      "content": "string"
+    },
+    {
+      "id": 2,
+      "role": "Assistant",
+      "content": "Hi, As you are having lower back pain which is radiating to the buttocks and leg, this could be due to disc herniation or degenerative changes. You may require an MRI scan of the lumbar spine to confirm the diagnosis. You may also require to undergo physical therapy for pain relief and improving the spinal stability. Hope I have answered your query. Let me know if I can assist you further. Regards, Dr. Shinas Hussain, Physical Therapist"
+    },
+    {
+      "id": 3,
+      "role": "Human",
+      "content": "ss"
+    },
+    {
+      "id": 4,
+      "role": "Assistant",
+      "content": "Welcome to HCM. I have gone through your question. For an allergic reaction, you may take antihistamines like cetrizine or loratadine. For itching, you may take anti-histamines and topical steroid creams. For skin rashes, topical steroids like hydrocortisone may be used. You may also take oral steroid tablets like prednisolone for a short course. For itching and burning sensation, you may take topical application of calamine lotion. You may also take oral antihistamines like cetrizine. For severe reactions, you may require admission for treatment. Hope this answers your query. If you have additional questions or follow up queries then please do not hesitate in writing to us. I will be happy to answer your questions. Wishing you good health. Dr. Shinas Hussain"
+    }
+  ]
+}
